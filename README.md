@@ -12,6 +12,10 @@
 
 **MENTOR NAME**: NEELA SANTHOSH KUMAR
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/59d3fe94-2a86-4640-82a4-12dfe59a3ad9)
+![Image](https://github.com/user-attachments/assets/4ca6cf35-9c52-44db-bfea-646e00774528)
+
 # DESCRIPTION ON THE PROJECT
 
 This project focuses on building a machine learning-powered web application using Flask for predicting values based on user input. The goal of the project is to provide an easy-to-use interface that leverages the power of machine learning models for real-time predictions, enabling users to get insights instantly.
